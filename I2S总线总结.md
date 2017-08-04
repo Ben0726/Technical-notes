@@ -23,5 +23,7 @@
 * **左对齐格式**
 
 ![左对齐格式](http://upload-images.jianshu.io/upload_images/4859654-8d7089b67a52675f.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 * **右对齐格式**
+
 ![右对齐格式](http://upload-images.jianshu.io/upload_images/4859654-1f4db673c3c8e977.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
