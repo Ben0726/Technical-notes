@@ -1,4 +1,4 @@
-@[TOC](AUDIO POWER LIMIT)
+# AUDIO POWER LIMIT
 
 # Overview
 
