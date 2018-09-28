@@ -6,7 +6,7 @@ The audio limiter serves to prevent the signal level from exceeding a preset lim
 
 # Description
 ## Diagram
-![Audio Power Limit Diagram](/assets/20180922100005528.png)
+![Audio Power Limit Diagram](/assets/20180922100005528_ums9a55kz.png)
 
 **Key Point**£ºDSP controls the input audio signal to make the amplifier output audio signal big or small and the power source support equipment power. But if the output signal power is too big it will make the power source voltage down at the same time there will be a large current  through the equipment and what's worse it may burned equipment. So it needs the DSP to get the power source status to make the output audio signal power smaller than the limit value. Power source will give three status to DSP and let DSP know how to control the input audio signal.
 
