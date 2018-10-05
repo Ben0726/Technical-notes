@@ -1,5 +1,5 @@
 @[TOC](AUDIO POWER LIMIT)
-
+Auther Ben
 # Overview
 
 The audio limiter serves to prevent the signal level from exceeding a preset limit. It is a closed-loop control includes DSP Power source and Power amplifier and will protect the IPX[power amplifier equipment] from being overdriven.
