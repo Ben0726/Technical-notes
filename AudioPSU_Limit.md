@@ -24,7 +24,7 @@
 >  ![IPX Burst 输出](https://img-blog.csdnimg.cn/20190618160442523.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JlbnRlbmdkZW1h,size_16,color_FFFFFF,t_70)
 ## 二、PSU Limit 程序
 > ### 1、流程图
->  * 采用平滑压缩方式，数学公式为S(n) = $\alpha$S(n-1) +  (1 - $\alpha$)G， 调节压缩时间系数$\alpha$的大小的时候要注意相邻点压缩的平滑连续性。
+>  * 采用平滑压缩方式，数学公式为S(n) = αS(n-1) +  (1 - α)G， 调节压缩时间系数$\alpha$的大小的时候要注意相邻点压缩的平滑连续性。
 > * 逻辑电平表如下
 > ![IPX PSU Limit逻辑电平表](https://img-blog.csdnimg.cn/20190620095411581.png)
 > * 算法流程图
